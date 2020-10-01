@@ -1,0 +1,138 @@
+{
+  "main": {
+    "name": "Parth Shirke",
+    "occupation": "Front End Developer",
+    "description": "I want to work in an organization where I can acquire new knowledge, sharpen my skills and put my efforts on achieving organization as well as personal goals.",
+    "image": "Parth Shirke.JPG",
+    "bio": "My name is Parth, I'm a Front-End ReactJS Developer. Currently I'm working on redux ",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "shirkeparth3333@gmail.com",
+    "phone": "+91 8888741716",
+    "address": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "zip": "415605"
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/parth-shirke-741411177",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/parth_shirke_33/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/parth3333",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "University of Mumbai",
+        "degree": "Bachelor of Engineering in Computer Engineering",
+        "graduated": "2020",
+        "description": "Graduated with First Class"
+      }
+    ],
+    "work": [
+      {
+        "company": "Excel Industeries Ltd.",
+        "title": "Intern",
+        "years": "05/2018 - 06/2018",
+        "description": "Computer Network Development"
+      },
+      {
+        "company": "The Chiplun Urban Bank Co-Operative Bank Ltd.",
+        "title": "Intern",
+        "years": "12/2018 - 01/2019",
+        "description": "Leased line Connections, Software handling, Query Solving"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "75%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "Git",
+        "level": "55%"
+      },
+      {
+        "name": "Adobe Photoshop",
+        "level": "95%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MySQL",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "News Aggregator App",
+        "category": "News Aggregator built with (HTML5 , SASS , JavaScript)",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://github.com/parth3333/news-aggregator-app"
+      },
+      {
+        "title": "Zomato Replica",
+        "category": "Zomato built with MERN (HTML5 , SASS)",
+        "image": "tiktok-mern.jpeg",
+        "url": "https://github.com/parth3333/zomato-replica"
+      },
+      {
+        "title": "Finacial Portfolio",
+        "category": "Finacial Portfolio built with (Javascript, ReactJS, NodeJS, FireBase)",
+        "image": "facebook-clone.png",
+        "url": "https://github.com/parth3333/financial-portfolio-tracker-app"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Facebook Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
